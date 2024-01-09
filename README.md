@@ -1,4 +1,4 @@
-- 👋 I'm Josh, Josh Simpler.
+- 👋 I'm Simpler, Josh Simpler.
 
 <!---
 JoshSimpler/JoshSimpler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
